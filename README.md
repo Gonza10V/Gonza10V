@@ -1,8 +1,5 @@
 ### Hi there 👋 I´m Gonzalo Vidal
 
-<!--
-**Gonza10V/Gonza10V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A passionate Synthetic Biologist from Chile
 
 - 🔭 I’m currently working on [LOICA](https://github.com/SynBioUC/LOICA)
@@ -13,4 +10,3 @@ A passionate Synthetic Biologist from Chile
 - 📫 How to reach me: gsvidal@uc.cl
 - 😄 Pronouns: Lord
 - ⚡ Fun fact: I survived a whole month just eating cereal and milk
--->
