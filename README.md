@@ -7,7 +7,7 @@
 
 - 🐳  I’m currently part of **IIBMers**, **SBOL Editors** and **iGEM Engineering Committee**
 
-- 🌱 I’m currently learning **SBOL & Fusion360**
+- 🌱 I’m currently learning **SBOL**
 
 - 👯 I’m looking to collaborate on **interdisciplinary projects**
 
