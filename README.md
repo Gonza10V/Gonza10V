@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/gonza10v" target="blank"><img src="https://img.shields.io/twitter/follow/gonza10v?logo=twitter&style=for-the-badge" alt="gonza10v" /></a> </p>
 
-- 🔭 I’m currently working on [Experimental Data Converter](https://github.com/SynBioDex/Xperimental-Data-Convertor)
+- 🔭 I’m currently working on [Experimental Data Convertor](https://github.com/SynBioDex/Xperimental-Data-Convertor)
 
-- 🐳  I’m currently part of **IIBMers**, **SBOL Editors** and **iGEM Engineering Committee**
+- 🐳  I’m currently part of **SynBioNet_NEUK**, **IIBMers**, **SBOL Editors** and **iGEM Engineering Committee**
 
-- 🌱 I’m currently learning **SBOL**
+- 🌱 I’m currently learning **Databases Design**
 
-- 👯 I’m looking to collaborate on **interdisciplinary projects**
+- 👯 I’m looking to collaborate on **Interdisciplinary Projects**
 
-- 🤝 I’m looking for help with **automation**
+- 🤝 I’m looking for help with **Automation**
 
 - 💬 Ask me about **Synthetic Biology**
 
