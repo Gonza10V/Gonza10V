@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PUDU](https://github.com/RudgeLab/PUDU)
 
-- 🐳  I’m currently part of **SynBioNet_NEUK**, **IIBMers**, **SBOL Editors** and **iGEM Engineering Committee**
+- 🐳  I’m currently part of **NEUK SynBio**, **IIBMers**, **SBOL Editors** and **iGEM Engineering Committee**
 
 - 🌱 I’m currently learning **Databases Design**
 
