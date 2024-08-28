@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/gonza10v" target="blank"><img src="https://img.shields.io/twitter/follow/gonza10v?logo=twitter&style=for-the-badge" alt="gonza10v" /></a> </p>
 
-- 🔭 I’m currently working on [PUDU](https://github.com/RudgeLab/PUDU)
+- 🔭 I’m currently working on [XDC](https://github.com/SynBioDex/Xperimental-Data-Connector)
 
-- 🐳  I’m currently part of **NEUK SynBio**, **IIBMers**, **SBOL Editors** and **iGEM Engineering Committee**
+- 🐳  I’m currently part of **SBOL Devs** and **iGEM Engineering Committee**
 
-- 🌱 I’m currently learning **Databases Design**
+- 🌱 I’m currently learning **Project Management and UX Design**
 
 - 👯 I’m looking to collaborate on **Interdisciplinary Projects**
 
 - 🤝 I’m looking for help with **Automation**
 
-- 💬 Ask me about **Synthetic Biology**
+- 💬 Ask me about **Synthetic Biology and Software Engineering**
 
-- 📫 How to reach me **gsvidal@uc.cl**
+- 📫 How to reach me **gvidal1011@gmail.com**
 
 - ⚡ Fun fact **I survived a whole month just eating cereal and milk**
 
