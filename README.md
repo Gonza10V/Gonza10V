@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/gonza10v" target="blank"><img src="https://img.shields.io/twitter/follow/gonza10v?logo=twitter&style=for-the-badge" alt="gonza10v" /></a> </p>
 
-- 🔭 I’m currently working on [XDC](https://github.com/SynBioDex/Xperimental-Data-Connector)
+- 🔭 I’m currently working on [SynBioSuite](https://github.com/MyersResearchGroup/SynBioSuite)
 
 - 🐳  I’m currently part of **SBOL Devs** and **iGEM Engineering Committee**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Interdisciplinary Projects**
 
-- 🤝 I’m looking for help with **Automation**
+- 🤝 I’m looking for help with **Automation adn DevOps**
 
 - 💬 Ask me about **Synthetic Biology and Software Engineering**
 
