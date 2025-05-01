@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Interdisciplinary Projects**
 
-- 🤝 I’m looking for help with **Automation adn DevOps**
+- 🤝 I’m looking for help with **Automation and DevOps**
 
 - 💬 Ask me about **Synthetic Biology and Software Engineering**
 
